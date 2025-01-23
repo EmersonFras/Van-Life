@@ -33,7 +33,7 @@ Through this project, you will:
 - **React**: A JavaScript library for building user interfaces.
 - **React Router 6**: A routing library for React.
 - **JavaScript**: Core language for building the application.
-- **CSS**: For basic styling.
+- **CSS**: For basic styling. Mostly supplied through Scrimba's course (as this is not the main learning objective) with small changes made by myself.
 
 ## Notes
 
