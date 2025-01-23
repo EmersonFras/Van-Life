@@ -13,6 +13,10 @@ Van Life simulates a platform where users can "rent" vans for their adventures. 
 
 This project focuses on learning how to build a modern single-page application (SPA) using React Router.
 
+## Live Demo
+
+You can view the deployed version of the project here: [Van Life on Netlify](https://rr-van-life.netlify.app)
+
 ## Learning Objectives
 
 Through this project, you will:
